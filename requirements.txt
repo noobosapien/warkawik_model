@@ -1,0 +1,6 @@
+transformers
+transformers[torch]
+datasets 
+peft 
+bitsandbytes 
+flash-attn
